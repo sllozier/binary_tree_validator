@@ -41,7 +41,6 @@ Before you begin, ensure you have the following installed:
 The suggested file structure for your project is as follows:
 
 ```
-
 .
 └── binary_tree_validator/
     ├── bin/
