@@ -126,7 +126,7 @@ Several improvements could be made to Project 3. Implementing a graphical user i
 
 <details>
 <summary><b>See Diagram</b></summary>
-<img align="center" width="750" src="./public/project2_uml.png" alt="UML Diagram Missing">
+<img align="center" width="750" src="./public/project3_uml.png" alt="UML Diagram Missing">
 </details>
 
 ---
